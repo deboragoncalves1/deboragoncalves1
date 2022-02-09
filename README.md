@@ -2,9 +2,9 @@
 ### Olá! Eu sou a Debora Gonçalves 👋
 
 <div>
-- 🔭 Graduando em Analise e Desenvolvimento de Sistemas
-- 🌱 Cursando Inglês
-- 📚 Amo livros
+- 🔭 Graduando em Analise e Desenvolvimento de Sistemas <br>
+- 🌱 Cursando Inglês <br>
+- 📚 Amo livros <br>
   
 <div align="center">
   <a href="https://github.com/deboragoncalves1">
