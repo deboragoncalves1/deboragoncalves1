@@ -1,21 +1,15 @@
-### Olá, sou a Debora Gonçalves! 👋
+### Olá! Eu sou a Debora Gonçalves 👋
 
-- 🔭 Estou estudando Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo inglês
-- 📚 Adoro livros!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/GcEYec9lYyuHf9dlZP/giphy.gif" width="300">
-</div>
-
+<div>
+- 🔭 Graduando em Analise e Desenvolvimento de Sistemas <br>
+- 🌱 Cursando Inglês <br>
+- 📚 Amo livros <br>
+  
 <div align="center">
   <a href="https://github.com/deboragoncalves1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboragoncalves1&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
   
-<div align="center">
-  <img src="https://github.com/deboragoncalves1/deboragoncalves1/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Deh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +20,7 @@
 </div>
   
  
-<div align="center"> 
+<div> 
   <a href="https://www.youtube.com/channel/UCSlIgtLmnPKtKRTeEOr7C_w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/accounts/login/?next=/deh000000/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/deboragoncalves1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
