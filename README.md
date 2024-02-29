@@ -17,7 +17,7 @@
   <br>
   <br>
   
-Bora nos conectar no LinkedIn! 👇
+ 👇👇👇Bora nos conectar no LinkedIn! 
 <div> 
   <a href="https://www.linkedin.com/in/debora-ferreira-gon%C3%A7alves-257446148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
