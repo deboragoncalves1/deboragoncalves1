@@ -1,4 +1,4 @@
-### Olá! Eu sou a Debora Gonçalves 👋
+### Olá! Eu sou a Débora Gonçalves 👋
 
 <div>
 - 🔭 Graduanda em Análise e Desenvolvimento de Sistemas <br>
@@ -20,3 +20,4 @@
 </div>
 
 ![Super Mario eating a mushroom](https://i.gifer.com/WiCH.gif)
+
