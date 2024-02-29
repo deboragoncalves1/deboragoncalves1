@@ -19,4 +19,4 @@
   <a href="https://www.linkedin.com/in/debora-ferreira-gon%C3%A7alves-257446148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> Bora nos conectar no LinkedIn! 👋
 </div>
 
-https://media1.tenor.com/m/UEPZFKzPqoQAAAAd/super-mario-world-big-boo.gif
+![Super Mario eating a mushroom](https://media.giphy.com/media/4OKl/giphy.gif)
