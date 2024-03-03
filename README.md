@@ -1,9 +1,9 @@
-### Olá! Eu sou a Débora Gonçalves 👋
+### Hello! I am Débora Gonçalves 👋
 
 <div>
-- 🔭 Graduanda em Análise e Desenvolvimento de Sistemas <br>
-- 🌱 Estudando Inglês <br>
-- 📚 Amo livros <br>
+- 🔭 Graduating in Systems Analysis and Development <br>
+- 🌱 Studying English <br>
+- 📚 I love books <br>
   
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboragoncalves1&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
