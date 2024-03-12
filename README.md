@@ -1,5 +1,5 @@
 ### Hello! I am Débora Gonçalves 👋
-
+https://github.githubassets.com/assets/mona-loading-dimmed-5da225352fd7.gif
 <div>
 - 🔭 Graduating in Systems Analysis and Development <br>
 - 🌱 Studying English <br>
