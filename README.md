@@ -1,7 +1,7 @@
 ### Hello! I am Débora Gonçalves 👋
 <div>
 - 🔭 Graduating in Systems Analysis and Development <br> 
-- 🌱 Studying English <br> 
+- 🌱 Studying English <br>  
 - 📚 I love books <br>
   
 <div align="center">
